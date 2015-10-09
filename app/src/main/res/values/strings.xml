@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InsideArea</string>
+    <string name="title_activity_maps">InsideArea</string>
+    <string name="action_fake">Fake Location</string>
+</resources>
